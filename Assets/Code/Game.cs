@@ -5,6 +5,8 @@ public class Game : MonoBehaviour {
 
 	public static GameObject Instance;
 
+	bool Paused;
+
 	// Use this for initialization
 	void Start () {
 
@@ -18,5 +20,9 @@ public class Game : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
+	}
+
+	public bool IsPaused() {
+		return Paused;
 	}
 }
