@@ -1,0 +1,2022 @@
+fileFormatVersion: 2
+guid: 51f9277a3a402914a82fad629c91e19a
+timeCreated: 1510800820
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RPGXP en grapes...2_persos _0
+    21300002: RPGXP en grapes...2_persos _1
+    21300004: RPGXP en grapes...2_persos _2
+    21300006: RPGXP en grapes...2_persos _3
+    21300008: RPGXP en grapes...2_persos _4
+    21300010: RPGXP en grapes...2_persos _5
+    21300012: RPGXP en grapes...2_persos _6
+    21300014: RPGXP en grapes...2_persos _7
+    21300016: RPGXP en grapes...2_persos _8
+    21300018: RPGXP en grapes...2_persos _9
+    21300020: RPGXP en grapes...2_persos _10
+    21300022: RPGXP en grapes...2_persos _11
+    21300024: RPGXP en grapes...2_persos _12
+    21300026: RPGXP en grapes...2_persos _13
+    21300028: RPGXP en grapes...2_persos _14
+    21300030: RPGXP en grapes...2_persos _15
+    21300032: RPGXP en grapes...2_persos _16
+    21300034: RPGXP en grapes...2_persos _17
+    21300036: RPGXP en grapes...2_persos _18
+    21300038: RPGXP en grapes...2_persos _19
+    21300040: RPGXP en grapes...2_persos _20
+    21300042: RPGXP en grapes...2_persos _21
+    21300044: RPGXP en grapes...2_persos _22
+    21300046: RPGXP en grapes...2_persos _23
+    21300048: RPGXP en grapes...2_persos _24
+    21300050: RPGXP en grapes...2_persos _25
+    21300052: RPGXP en grapes...2_persos _26
+    21300054: RPGXP en grapes...2_persos _27
+    21300056: RPGXP en grapes...2_persos _28
+    21300058: RPGXP en grapes...2_persos _29
+    21300060: RPGXP en grapes...2_persos _30
+    21300062: RPGXP en grapes...2_persos _31
+    21300064: RPGXP en grapes...2_persos _32
+    21300066: RPGXP en grapes...2_persos _33
+    21300068: RPGXP en grapes...2_persos _34
+    21300070: RPGXP en grapes...2_persos _35
+    21300072: RPGXP en grapes...2_persos _36
+    21300074: RPGXP en grapes...2_persos _37
+    21300076: RPGXP en grapes...2_persos _38
+    21300078: RPGXP en grapes...2_persos _39
+    21300080: RPGXP en grapes...2_persos _40
+    21300082: RPGXP en grapes...2_persos _41
+    21300084: RPGXP en grapes...2_persos _42
+    21300086: RPGXP en grapes...2_persos _43
+    21300088: RPGXP en grapes...2_persos _44
+    21300090: RPGXP en grapes...2_persos _45
+    21300092: RPGXP en grapes...2_persos _46
+    21300094: RPGXP en grapes...2_persos _47
+    21300096: RPGXP en grapes...2_persos _48
+    21300098: RPGXP en grapes...2_persos _49
+    21300100: RPGXP en grapes...2_persos _50
+    21300102: RPGXP en grapes...2_persos _51
+    21300104: RPGXP en grapes...2_persos _52
+    21300106: RPGXP en grapes...2_persos _53
+    21300108: RPGXP en grapes...2_persos _54
+    21300110: RPGXP en grapes...2_persos _55
+    21300112: RPGXP en grapes...2_persos _56
+    21300114: RPGXP en grapes...2_persos _57
+    21300116: RPGXP en grapes...2_persos _58
+    21300118: RPGXP en grapes...2_persos _59
+    21300120: RPGXP en grapes...2_persos _60
+    21300122: RPGXP en grapes...2_persos _61
+    21300124: RPGXP en grapes...2_persos _62
+    21300126: RPGXP en grapes...2_persos _63
+    21300128: RPGXP en grapes...2_persos _64
+    21300130: RPGXP en grapes...2_persos _65
+    21300132: RPGXP en grapes...2_persos _66
+    21300134: RPGXP en grapes...2_persos _67
+    21300136: RPGXP en grapes...2_persos _68
+    21300138: RPGXP en grapes...2_persos _69
+    21300140: RPGXP en grapes...2_persos _70
+    21300142: RPGXP en grapes...2_persos _71
+    21300144: RPGXP en grapes...2_persos _72
+    21300146: RPGXP en grapes...2_persos _73
+    21300148: RPGXP en grapes...2_persos _74
+    21300150: RPGXP en grapes...2_persos _75
+    21300152: RPGXP en grapes...2_persos _76
+    21300154: RPGXP en grapes...2_persos _77
+    21300156: RPGXP en grapes...2_persos _78
+    21300158: RPGXP en grapes...2_persos _79
+    21300160: RPGXP en grapes...2_persos _80
+    21300162: RPGXP en grapes...2_persos _81
+    21300164: RPGXP en grapes...2_persos _82
+    21300166: RPGXP en grapes...2_persos _83
+    21300168: RPGXP en grapes...2_persos _84
+    21300170: RPGXP en grapes...2_persos _85
+    21300172: RPGXP en grapes...2_persos _86
+    21300174: RPGXP en grapes...2_persos _87
+    21300176: RPGXP en grapes...2_persos _88
+    21300178: RPGXP en grapes...2_persos _89
+    21300180: RPGXP en grapes...2_persos _90
+    21300182: RPGXP en grapes...2_persos _91
+    21300184: RPGXP en grapes...2_persos _92
+    21300186: RPGXP en grapes...2_persos _93
+    21300188: RPGXP en grapes...2_persos _94
+    21300190: RPGXP en grapes...2_persos _95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RPGXP en grapes...2_persos _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -13, y: 13}
+        - {x: -13, y: -18}
+        - {x: -8, y: -23}
+        - {x: -4, y: -24}
+        - {x: 8, y: -24}
+        - {x: 12, y: -22}
+        - {x: 12, y: 22}
+    - name: RPGXP en grapes...2_persos _1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 23}
+        - {x: -6, y: 23}
+        - {x: -13, y: 21}
+        - {x: -13, y: -12}
+        - {x: -7, y: -24}
+        - {x: 8, y: -24}
+        - {x: 14, y: -13}
+        - {x: 14, y: 4}
+        - {x: 11, y: 19}
+    - name: RPGXP en grapes...2_persos _2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -11, y: -22}
+        - {x: -9, y: -24}
+        - {x: 7, y: -24}
+        - {x: 14, y: -19}
+        - {x: 14, y: 21}
+        - {x: 12, y: 22}
+    - name: RPGXP en grapes...2_persos _3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 23}
+        - {x: -13, y: 13}
+        - {x: -13, y: -20}
+        - {x: -8, y: -24}
+        - {x: 3, y: -24}
+        - {x: 13, y: -19}
+        - {x: 13, y: 17}
+        - {x: 11, y: 23}
+    - name: RPGXP en grapes...2_persos _4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 6, y: 24}
+        - {x: -9, y: 24}
+        - {x: -14, y: 10}
+        - {x: -14, y: -14}
+        - {x: -13, y: -17}
+        - {x: -6, y: -24}
+        - {x: 7, y: -24}
+        - {x: 15, y: -17}
+        - {x: 15, y: 10}
+    - name: RPGXP en grapes...2_persos _5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23}
+        - {x: -12, y: 16}
+        - {x: -12, y: -19}
+        - {x: -4, y: -24}
+        - {x: 11, y: -24}
+        - {x: 14, y: -19}
+        - {x: 14, y: 14}
+        - {x: 8, y: 23}
+    - name: RPGXP en grapes...2_persos _6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -14, y: 10}
+        - {x: -14, y: -15}
+        - {x: -6, y: -24}
+        - {x: 14, y: -24}
+        - {x: 15, y: -14}
+        - {x: 15, y: 23}
+        - {x: 11, y: 24}
+    - name: RPGXP en grapes...2_persos _7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 24}
+        - {x: -14, y: 21}
+        - {x: -14, y: -20}
+        - {x: -9, y: -24}
+        - {x: 11, y: -24}
+        - {x: 16, y: -19}
+        - {x: 16, y: 22}
+        - {x: 15, y: 24}
+    - name: RPGXP en grapes...2_persos _8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24}
+        - {x: -12, y: -20}
+        - {x: -9, y: -24}
+        - {x: 9, y: -24}
+        - {x: 16, y: -17}
+        - {x: 16, y: 13}
+        - {x: 9, y: 24}
+    - name: RPGXP en grapes...2_persos _9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -11, y: 16}
+        - {x: -11, y: -9}
+        - {x: -5, y: -24}
+        - {x: 12, y: -24}
+        - {x: 16, y: -8}
+        - {x: 16, y: 21}
+        - {x: 12, y: 24}
+    - name: RPGXP en grapes...2_persos _10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -12, y: 18}
+        - {x: -12, y: -12}
+        - {x: -9, y: -23}
+        - {x: -6, y: -24}
+        - {x: 13, y: -24}
+        - {x: 16, y: -18}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -24}
+        - {x: 16, y: -17}
+        - {x: 16, y: 16}
+        - {x: 14, y: 24}
+        - {x: -11, y: 24}
+        - {x: -11, y: -24}
+    - name: RPGXP en grapes...2_persos _12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -12, y: 16}
+        - {x: -12, y: 14}
+        - {x: -13, y: 3}
+        - {x: -13, y: -20}
+        - {x: -11, y: -24}
+        - {x: 11, y: -24}
+        - {x: 11, y: 19}
+        - {x: 10, y: 22}
+    - name: RPGXP en grapes...2_persos _13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 23}
+        - {x: -12, y: 17}
+        - {x: -12, y: 10}
+        - {x: -8, y: -20}
+        - {x: -5, y: -24}
+        - {x: 6, y: -24}
+        - {x: 10, y: -23}
+        - {x: 11, y: -9}
+        - {x: 11, y: 19}
+        - {x: 7, y: 23}
+    - name: RPGXP en grapes...2_persos _14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -12, y: 16}
+        - {x: -12, y: 14}
+        - {x: -11, y: -21}
+        - {x: -11, y: -24}
+        - {x: 4, y: -24}
+        - {x: 13, y: -21}
+        - {x: 13, y: 8}
+        - {x: 12, y: 15}
+        - {x: 7, y: 22}
+    - name: RPGXP en grapes...2_persos _15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -12, y: 16}
+        - {x: -12, y: -13}
+        - {x: -11, y: -18}
+        - {x: -9, y: -20}
+        - {x: -2, y: -20}
+        - {x: 0, y: -18}
+        - {x: 0, y: -15}
+        - {x: 1, y: -21}
+        - {x: 4, y: -24}
+        - {x: 7, y: -24}
+        - {x: 16, y: -20}
+        - {x: 16, y: 14}
+        - {x: 11, y: 21}
+    - name: RPGXP en grapes...2_persos _16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 22}
+        - {x: -8, y: 22}
+        - {x: -12, y: 17}
+        - {x: -12, y: 3}
+        - {x: -10, y: -21}
+        - {x: -3, y: -24}
+        - {x: 8, y: -24}
+        - {x: 13, y: -15}
+        - {x: 15, y: -1}
+        - {x: 15, y: 20}
+    - name: RPGXP en grapes...2_persos _17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -12, y: 20}
+        - {x: -12, y: -17}
+        - {x: -11, y: -24}
+        - {x: 6, y: -24}
+        - {x: 16, y: -20}
+        - {x: 16, y: 19}
+        - {x: 9, y: 21}
+    - name: RPGXP en grapes...2_persos _18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24}
+        - {x: -3, y: 24}
+        - {x: -9, y: 22}
+        - {x: -11, y: 7}
+        - {x: -11, y: -19}
+        - {x: -10, y: -24}
+        - {x: 8, y: -24}
+        - {x: 13, y: -22}
+        - {x: 13, y: 20}
+    - name: RPGXP en grapes...2_persos _19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 24}
+        - {x: -5, y: 24}
+        - {x: -10, y: 22}
+        - {x: -10, y: -16}
+        - {x: -9, y: -21}
+        - {x: -5, y: -24}
+        - {x: 4, y: -24}
+        - {x: 10, y: -23}
+        - {x: 12, y: -8}
+        - {x: 13, y: -2}
+        - {x: 13, y: 21}
+    - name: RPGXP en grapes...2_persos _20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -10, y: 23}
+        - {x: -12, y: 12}
+        - {x: -12, y: -24}
+        - {x: 11, y: -24}
+        - {x: 13, y: -22}
+        - {x: 13, y: 19}
+        - {x: 8, y: 24}
+    - name: RPGXP en grapes...2_persos _21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -10, y: 21}
+        - {x: -10, y: -20}
+        - {x: -9, y: -24}
+        - {x: 15, y: -24}
+        - {x: 16, y: -19}
+        - {x: 16, y: 22}
+        - {x: 14, y: 24}
+    - name: RPGXP en grapes...2_persos _22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24}
+        - {x: -10, y: -4}
+        - {x: -3, y: -24}
+        - {x: 11, y: -24}
+        - {x: 15, y: -14}
+        - {x: 15, y: 23}
+        - {x: 14, y: 24}
+    - name: RPGXP en grapes...2_persos _23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24}
+        - {x: -8, y: 24}
+        - {x: -10, y: 22}
+        - {x: -10, y: -17}
+        - {x: -8, y: -24}
+        - {x: 2, y: -24}
+        - {x: 10, y: -21}
+        - {x: 13, y: -17}
+        - {x: 15, y: -8}
+        - {x: 15, y: 22}
+    - name: RPGXP en grapes...2_persos _24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 22}
+        - {x: -6, y: 22}
+        - {x: -11, y: 21}
+        - {x: -11, y: -23}
+        - {x: -10, y: -24}
+        - {x: 4, y: -24}
+        - {x: 11, y: -23}
+        - {x: 13, y: -21}
+        - {x: 13, y: 4}
+        - {x: 12, y: 16}
+    - name: RPGXP en grapes...2_persos _25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -11, y: 21}
+        - {x: -11, y: -15}
+        - {x: -7, y: -24}
+        - {x: 2, y: -24}
+        - {x: 10, y: -21}
+        - {x: 12, y: -8}
+        - {x: 12, y: 19}
+        - {x: 4, y: 23}
+    - name: RPGXP en grapes...2_persos _26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -11, y: 19}
+        - {x: -13, y: 3}
+        - {x: -13, y: -21}
+        - {x: -6, y: -24}
+        - {x: 12, y: -24}
+        - {x: 12, y: 20}
+        - {x: 7, y: 22}
+    - name: RPGXP en grapes...2_persos _27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -16, y: 15}
+        - {x: -16, y: -20}
+        - {x: -14, y: -24}
+        - {x: 7, y: -24}
+        - {x: 12, y: -23}
+        - {x: 12, y: 18}
+        - {x: 9, y: 21}
+    - name: RPGXP en grapes...2_persos _28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -15, y: 20}
+        - {x: -15, y: -12}
+        - {x: -10, y: -24}
+        - {x: 5, y: -24}
+        - {x: 10, y: -21}
+        - {x: 12, y: 9}
+        - {x: 12, y: 16}
+        - {x: 5, y: 22}
+    - name: RPGXP en grapes...2_persos _29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 21}
+        - {x: -10, y: 21}
+        - {x: -15, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: -21}
+        - {x: -12, y: -24}
+        - {x: 10, y: -24}
+        - {x: 11, y: -22}
+        - {x: 12, y: -18}
+        - {x: 12, y: 17}
+    - name: RPGXP en grapes...2_persos _30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -11, y: -21}
+        - {x: -10, y: -24}
+        - {x: 12, y: -24}
+        - {x: 13, y: -21}
+        - {x: 13, y: 22}
+        - {x: 8, y: 24}
+    - name: RPGXP en grapes...2_persos _31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: -10, y: 24}
+        - {x: -11, y: 20}
+        - {x: -11, y: -11}
+        - {x: -8, y: -23}
+        - {x: -6, y: -24}
+        - {x: 6, y: -24}
+        - {x: 12, y: -13}
+        - {x: 12, y: 20}
+    - name: RPGXP en grapes...2_persos _32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -18}
+        - {x: -7, y: -21}
+        - {x: -3, y: -21}
+        - {x: 0, y: -18}
+        - {x: 0, y: -16}
+        - {x: 1, y: -20}
+        - {x: 3, y: -24}
+        - {x: 14, y: -24}
+        - {x: 14, y: 12}
+        - {x: 12, y: 24}
+        - {x: -11, y: 24}
+    - name: RPGXP en grapes...2_persos _33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -12, y: 21}
+        - {x: -12, y: -18}
+        - {x: -10, y: -24}
+        - {x: 12, y: -24}
+        - {x: 14, y: -20}
+        - {x: 14, y: 24}
+    - name: RPGXP en grapes...2_persos _34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -11, y: 18}
+        - {x: -11, y: 3}
+        - {x: -9, y: -13}
+        - {x: -5, y: -21}
+        - {x: -3, y: -24}
+        - {x: 4, y: -24}
+        - {x: 12, y: -21}
+        - {x: 14, y: -6}
+        - {x: 14, y: 21}
+        - {x: 13, y: 24}
+    - name: RPGXP en grapes...2_persos _35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -11, y: 18}
+        - {x: -11, y: -12}
+        - {x: -10, y: -18}
+        - {x: -6, y: -22}
+        - {x: -2, y: -24}
+        - {x: 13, y: -24}
+        - {x: 14, y: -21}
+        - {x: 14, y: 20}
+        - {x: 13, y: 24}
+    - name: RPGXP en grapes...2_persos _36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -12, y: 19}
+        - {x: -12, y: -11}
+        - {x: -7, y: -24}
+        - {x: 3, y: -24}
+        - {x: 10, y: -21}
+        - {x: 13, y: -14}
+        - {x: 13, y: 20}
+        - {x: 5, y: 22}
+    - name: RPGXP en grapes...2_persos _37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -13, y: 11}
+        - {x: -13, y: -13}
+        - {x: -11, y: -23}
+        - {x: -8, y: -24}
+        - {x: 12, y: -24}
+        - {x: 14, y: -20}
+        - {x: 14, y: 11}
+        - {x: 10, y: 23}
+    - name: RPGXP en grapes...2_persos _38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -12, y: 21}
+        - {x: -12, y: -24}
+        - {x: 8, y: -24}
+        - {x: 13, y: -12}
+        - {x: 13, y: 20}
+        - {x: 5, y: 22}
+    - name: RPGXP en grapes...2_persos _39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -15, y: 5}
+        - {x: -15, y: -22}
+        - {x: -11, y: -24}
+        - {x: 4, y: -24}
+        - {x: 15, y: -20}
+        - {x: 15, y: 16}
+        - {x: 7, y: 21}
+    - name: RPGXP en grapes...2_persos _40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -14, y: 19}
+        - {x: -14, y: -23}
+        - {x: -13, y: -24}
+        - {x: 9, y: -24}
+        - {x: 15, y: -22}
+        - {x: 15, y: 11}
+        - {x: 9, y: 22}
+    - name: RPGXP en grapes...2_persos _41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -14, y: 14}
+        - {x: -14, y: -23}
+        - {x: -12, y: -24}
+        - {x: 12, y: -24}
+        - {x: 16, y: -18}
+        - {x: 16, y: 13}
+        - {x: 11, y: 21}
+    - name: RPGXP en grapes...2_persos _42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -13, y: 3}
+        - {x: -13, y: -9}
+        - {x: -5, y: -24}
+        - {x: 8, y: -24}
+        - {x: 15, y: -12}
+        - {x: 15, y: 23}
+        - {x: 12, y: 24}
+    - name: RPGXP en grapes...2_persos _43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24}
+        - {x: -11, y: 24}
+        - {x: -14, y: 19}
+        - {x: -14, y: -11}
+        - {x: -9, y: -24}
+        - {x: 11, y: -24}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 14, y: 23}
+    - name: RPGXP en grapes...2_persos _44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -12, y: 13}
+        - {x: -12, y: -13}
+        - {x: -11, y: -22}
+        - {x: -8, y: -24}
+        - {x: 9, y: -24}
+        - {x: 16, y: -17}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -11, y: 22}
+        - {x: -11, y: -9}
+        - {x: -5, y: -21}
+        - {x: -4, y: -24}
+        - {x: 4, y: -24}
+        - {x: 8, y: -23}
+        - {x: 16, y: -14}
+        - {x: 16, y: 21}
+        - {x: 15, y: 24}
+    - name: RPGXP en grapes...2_persos _46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -12, y: 18}
+        - {x: -12, y: -12}
+        - {x: -9, y: -23}
+        - {x: -6, y: -24}
+        - {x: 13, y: -24}
+        - {x: 16, y: -18}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -11, y: 16}
+        - {x: -11, y: -11}
+        - {x: -8, y: -21}
+        - {x: -4, y: -24}
+        - {x: 14, y: -24}
+        - {x: 16, y: -17}
+        - {x: 16, y: 19}
+        - {x: 9, y: 24}
+    - name: RPGXP en grapes...2_persos _48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -15, y: 20}
+        - {x: -15, y: -12}
+        - {x: -9, y: -24}
+        - {x: 5, y: -24}
+        - {x: 14, y: -20}
+        - {x: 16, y: -15}
+        - {x: 16, y: 22}
+        - {x: 15, y: 24}
+    - name: RPGXP en grapes...2_persos _49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -12}
+        - {x: -12, y: -24}
+        - {x: 10, y: -24}
+        - {x: 16, y: -14}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -9}
+        - {x: -5, y: -24}
+        - {x: 9, y: -24}
+        - {x: 12, y: -22}
+        - {x: 16, y: -18}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 18}
+        - {x: 14, y: 22}
+        - {x: -10, y: 22}
+        - {x: -15, y: 8}
+        - {x: -15, y: -18}
+        - {x: -14, y: -19}
+        - {x: -3, y: -24}
+        - {x: 1, y: -24}
+        - {x: 6, y: -22}
+        - {x: 14, y: -18}
+        - {x: 15, y: -16}
+    - name: RPGXP en grapes...2_persos _52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 23}
+        - {x: -13, y: 22}
+        - {x: -13, y: -18}
+        - {x: -11, y: -24}
+        - {x: 14, y: -24}
+        - {x: 16, y: -23}
+        - {x: 16, y: 20}
+        - {x: 9, y: 23}
+    - name: RPGXP en grapes...2_persos _53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -17}
+        - {x: -7, y: -24}
+        - {x: 14, y: -24}
+        - {x: 16, y: -22}
+        - {x: 16, y: 17}
+        - {x: 13, y: 22}
+        - {x: -7, y: 22}
+        - {x: -12, y: 20}
+    - name: RPGXP en grapes...2_persos _54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -13, y: 19}
+        - {x: -13, y: -9}
+        - {x: -8, y: -24}
+        - {x: 6, y: -24}
+        - {x: 16, y: -12}
+        - {x: 16, y: 18}
+        - {x: 15, y: 23}
+    - name: RPGXP en grapes...2_persos _55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -14, y: 15}
+        - {x: -14, y: -10}
+        - {x: -9, y: -24}
+        - {x: 9, y: -24}
+        - {x: 16, y: -10}
+        - {x: 16, y: 17}
+        - {x: 15, y: 24}
+    - name: RPGXP en grapes...2_persos _56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -13, y: 19}
+        - {x: -13, y: -9}
+        - {x: -9, y: -24}
+        - {x: 7, y: -24}
+        - {x: 16, y: -12}
+        - {x: 16, y: 17}
+        - {x: 15, y: 23}
+    - name: RPGXP en grapes...2_persos _57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -11, y: 18}
+        - {x: -13, y: 12}
+        - {x: -13, y: -12}
+        - {x: -10, y: -23}
+        - {x: -8, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -13}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -13, y: 17}
+        - {x: -13, y: -14}
+        - {x: -10, y: -24}
+        - {x: 12, y: -24}
+        - {x: 16, y: -19}
+        - {x: 16, y: 19}
+        - {x: 14, y: 24}
+    - name: RPGXP en grapes...2_persos _59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 24}
+        - {x: -9, y: 23}
+        - {x: -12, y: 11}
+        - {x: -12, y: -7}
+        - {x: -6, y: -23}
+        - {x: -2, y: -24}
+        - {x: 10, y: -24}
+        - {x: 16, y: -15}
+        - {x: 16, y: 22}
+        - {x: 12, y: 24}
+    - name: RPGXP en grapes...2_persos _60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -11, y: 19}
+        - {x: -11, y: -16}
+        - {x: -9, y: -21}
+        - {x: -3, y: -24}
+        - {x: 14, y: -24}
+        - {x: 14, y: 21}
+        - {x: 8, y: 24}
+    - name: RPGXP en grapes...2_persos _61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24}
+        - {x: -11, y: 23}
+        - {x: -11, y: -9}
+        - {x: -5, y: -24}
+        - {x: 14, y: -24}
+        - {x: 14, y: 23}
+        - {x: 11, y: 24}
+    - name: RPGXP en grapes...2_persos _62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: -2, y: 24}
+        - {x: -11, y: 22}
+        - {x: -11, y: -24}
+        - {x: 8, y: -24}
+        - {x: 12, y: -23}
+        - {x: 14, y: -18}
+        - {x: 14, y: 17}
+    - name: RPGXP en grapes...2_persos _63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 22}
+        - {x: -5, y: 22}
+        - {x: -12, y: 20}
+        - {x: -12, y: -16}
+        - {x: -11, y: -19}
+        - {x: -4, y: -24}
+        - {x: 10, y: -24}
+        - {x: 16, y: -21}
+        - {x: 16, y: 4}
+        - {x: 14, y: 16}
+    - name: RPGXP en grapes...2_persos _64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 23}
+        - {x: -6, y: 23}
+        - {x: -12, y: 17}
+        - {x: -12, y: 5}
+        - {x: -7, y: -20}
+        - {x: -3, y: -24}
+        - {x: 5, y: -24}
+        - {x: 13, y: -22}
+        - {x: 14, y: -21}
+        - {x: 14, y: 19}
+        - {x: 9, y: 22}
+    - name: RPGXP en grapes...2_persos _65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -12, y: 21}
+        - {x: -12, y: -12}
+        - {x: -10, y: -24}
+        - {x: 10, y: -24}
+        - {x: 12, y: -23}
+        - {x: 16, y: -17}
+        - {x: 16, y: 19}
+        - {x: 6, y: 22}
+    - name: RPGXP en grapes...2_persos _66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 24}
+        - {x: -7, y: 23}
+        - {x: -12, y: 12}
+        - {x: -12, y: -24}
+        - {x: 11, y: -24}
+        - {x: 14, y: -22}
+        - {x: 14, y: 23}
+        - {x: 9, y: 24}
+    - name: RPGXP en grapes...2_persos _67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -11, y: 20}
+        - {x: -11, y: -7}
+        - {x: -6, y: -24}
+        - {x: 11, y: -24}
+        - {x: 14, y: -15}
+        - {x: 14, y: 24}
+    - name: RPGXP en grapes...2_persos _68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -21}
+        - {x: 13, y: -19}
+        - {x: 14, y: -3}
+        - {x: 14, y: 21}
+        - {x: 7, y: 24}
+        - {x: 0, y: 24}
+        - {x: -5, y: 21}
+        - {x: -11, y: 13}
+        - {x: -11, y: -22}
+        - {x: -8, y: -24}
+        - {x: -2, y: -24}
+        - {x: 2, y: -20}
+        - {x: 2, y: -18}
+        - {x: 4, y: -21}
+    - name: RPGXP en grapes...2_persos _69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 17}
+        - {x: 7, y: 24}
+        - {x: -8, y: 24}
+        - {x: -11, y: 18}
+        - {x: -11, y: -18}
+        - {x: -9, y: -19}
+        - {x: -2, y: -19}
+        - {x: 0, y: -17}
+        - {x: 0, y: -15}
+        - {x: 0, y: -21}
+        - {x: 3, y: -24}
+        - {x: 8, y: -24}
+        - {x: 12, y: -20}
+        - {x: 13, y: -9}
+        - {x: 15, y: 11}
+    - name: RPGXP en grapes...2_persos _70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -11, y: -24}
+        - {x: 6, y: -24}
+        - {x: 11, y: -23}
+        - {x: 15, y: -19}
+        - {x: 15, y: 20}
+        - {x: 14, y: 24}
+    - name: RPGXP en grapes...2_persos _71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -11, y: 23}
+        - {x: -11, y: -12}
+        - {x: -9, y: -24}
+        - {x: 6, y: -24}
+        - {x: 15, y: -22}
+        - {x: 15, y: 18}
+        - {x: 11, y: 24}
+    - name: RPGXP en grapes...2_persos _72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -11, y: 19}
+        - {x: -12, y: 9}
+        - {x: -12, y: -22}
+        - {x: -8, y: -24}
+        - {x: 5, y: -24}
+        - {x: 13, y: -19}
+        - {x: 13, y: 21}
+        - {x: 6, y: 24}
+    - name: RPGXP en grapes...2_persos _73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24}
+        - {x: -12, y: -24}
+        - {x: 9, y: -24}
+        - {x: 13, y: -13}
+        - {x: 13, y: 22}
+        - {x: 9, y: 24}
+    - name: RPGXP en grapes...2_persos _74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24}
+        - {x: -12, y: -24}
+        - {x: 13, y: -24}
+        - {x: 13, y: 24}
+    - name: RPGXP en grapes...2_persos _75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: -4, y: 22}
+        - {x: -15, y: 17}
+        - {x: -15, y: -21}
+        - {x: -9, y: -24}
+        - {x: 7, y: -24}
+        - {x: 11, y: -22}
+        - {x: 14, y: 11}
+        - {x: 14, y: 16}
+    - name: RPGXP en grapes...2_persos _76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 23}
+        - {x: -4, y: 23}
+        - {x: -12, y: 20}
+        - {x: -12, y: -24}
+        - {x: 5, y: -24}
+        - {x: 11, y: -21}
+        - {x: 14, y: 3}
+        - {x: 14, y: 18}
+    - name: RPGXP en grapes...2_persos _77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -15, y: 12}
+        - {x: -15, y: -20}
+        - {x: -10, y: -24}
+        - {x: 10, y: -24}
+        - {x: 14, y: -23}
+        - {x: 14, y: 15}
+        - {x: 7, y: 22}
+    - name: RPGXP en grapes...2_persos _78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24}
+        - {x: -12, y: -22}
+        - {x: -10, y: -24}
+        - {x: 14, y: -24}
+        - {x: 14, y: 17}
+        - {x: 11, y: 24}
+    - name: RPGXP en grapes...2_persos _79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24}
+        - {x: -12, y: -2}
+        - {x: -9, y: -22}
+        - {x: -5, y: -24}
+        - {x: 8, y: -24}
+        - {x: 13, y: -10}
+        - {x: 13, y: 20}
+        - {x: 8, y: 24}
+    - name: RPGXP en grapes...2_persos _80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -12, y: 22}
+        - {x: -12, y: -21}
+        - {x: -7, y: -24}
+        - {x: 13, y: -24}
+        - {x: 13, y: 23}
+        - {x: 8, y: 24}
+    - name: RPGXP en grapes...2_persos _81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 24}
+        - {x: -11, y: 18}
+        - {x: -11, y: -24}
+        - {x: 15, y: -24}
+        - {x: 15, y: 24}
+    - name: RPGXP en grapes...2_persos _82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 24}
+        - {x: -5, y: 24}
+        - {x: -11, y: 19}
+        - {x: -11, y: 11}
+        - {x: -8, y: -9}
+        - {x: -5, y: -24}
+        - {x: 4, y: -24}
+        - {x: 11, y: -20}
+        - {x: 15, y: 4}
+        - {x: 15, y: 21}
+    - name: RPGXP en grapes...2_persos _83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -11, y: 20}
+        - {x: -11, y: -24}
+        - {x: 13, y: -24}
+        - {x: 15, y: -20}
+        - {x: 15, y: 21}
+        - {x: 13, y: 24}
+    - name: RPGXP en grapes...2_persos _84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: -12, y: 24}
+        - {x: -16, y: 23}
+        - {x: -16, y: -12}
+        - {x: -7, y: -23}
+        - {x: -5, y: -24}
+        - {x: 5, y: -24}
+        - {x: 9, y: -21}
+        - {x: 16, y: -11}
+        - {x: 16, y: 21}
+    - name: RPGXP en grapes...2_persos _85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -12}
+        - {x: -12, y: -24}
+        - {x: 10, y: -24}
+        - {x: 16, y: -14}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -6}
+        - {x: -4, y: -24}
+        - {x: 15, y: -24}
+        - {x: 16, y: -19}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -12, y: 17}
+        - {x: -12, y: -21}
+        - {x: -5, y: -24}
+        - {x: 10, y: -24}
+        - {x: 16, y: -23}
+        - {x: 16, y: 22}
+      - - {x: -16, y: 7}
+        - {x: -16, y: -4}
+        - {x: -13, y: -3}
+        - {x: -13, y: 6}
+        - {x: -15, y: 7}
+    - name: RPGXP en grapes...2_persos _88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -13, y: 14}
+        - {x: -13, y: -22}
+        - {x: -7, y: -24}
+        - {x: 14, y: -24}
+        - {x: 16, y: -22}
+        - {x: 16, y: 21}
+        - {x: 10, y: 23}
+    - name: RPGXP en grapes...2_persos _89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -13, y: 20}
+        - {x: -13, y: -21}
+        - {x: -3, y: -24}
+        - {x: 9, y: -24}
+        - {x: 15, y: -19}
+        - {x: 15, y: 22}
+    - name: RPGXP en grapes...2_persos _90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -11, y: 22}
+        - {x: -13, y: 3}
+        - {x: -13, y: -10}
+        - {x: -4, y: -24}
+        - {x: 3, y: -24}
+        - {x: 7, y: -23}
+        - {x: 16, y: -8}
+        - {x: 16, y: 23}
+    - name: RPGXP en grapes...2_persos _91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -14, y: -24}
+        - {x: 11, y: -24}
+        - {x: 16, y: -11}
+        - {x: 16, y: 24}
+    - name: RPGXP en grapes...2_persos _92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -13, y: -24}
+        - {x: 9, y: -24}
+        - {x: 16, y: -14}
+        - {x: 16, y: 23}
+    - name: RPGXP en grapes...2_persos _93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -13, y: 16}
+        - {x: -13, y: -6}
+        - {x: -8, y: -22}
+        - {x: -2, y: -24}
+        - {x: 6, y: -24}
+        - {x: 16, y: -11}
+        - {x: 16, y: 21}
+        - {x: 10, y: 24}
+    - name: RPGXP en grapes...2_persos _94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -13, y: 17}
+        - {x: -13, y: -14}
+        - {x: -10, y: -24}
+        - {x: 12, y: -24}
+        - {x: 16, y: -19}
+        - {x: 16, y: 19}
+        - {x: 14, y: 24}
+    - name: RPGXP en grapes...2_persos _95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -11, y: 18}
+        - {x: -12, y: 7}
+        - {x: -12, y: -11}
+        - {x: -1, y: -24}
+        - {x: 7, y: -24}
+        - {x: 16, y: -12}
+        - {x: 16, y: 21}
+        - {x: 10, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
