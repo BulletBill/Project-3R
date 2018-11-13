@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class CharacterMovement : MonoBehaviour, InputReciever {
 
-	bool ReceivesInput = false;
+	public float MovementSpeed;
+
+	public bool ReceivesInput = true;
 
 	// Use this for initialization
 	void Start () {
@@ -15,7 +17,18 @@ public class CharacterMovement : MonoBehaviour, InputReciever {
 	void Update () {
 		if (false == ReceivesInput) return;
 
+		Vector2 InputVector;
 
+		InputVector.x = Input.GetAxis("Horizontal");
+		InputVector.y = Input.GetAxis("Vertical");
+
+		// limit diagonal speed
+		if (InputVector.x != 0 && InputVector.y != 0) {
+			InputVector *= 0.70707f;
+		}
+
+		Vector2 MovementDelta = (InputVector * MovementSpeed) * Time.deltaTime;
+		transform.position += new Vector3(MovementDelta.x, MovementDelta.y, 0.0f);
 	}
 
 	// 
