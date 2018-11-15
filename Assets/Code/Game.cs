@@ -25,4 +25,8 @@ public class Game : MonoBehaviour {
 	public bool IsPaused() {
 		return Paused;
 	}
+
+	public static int Sign(float number) {
+		return number < 0 ? -1 : (number > 0 ? 1 : 0);
+	}
 }

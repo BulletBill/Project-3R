@@ -100,14 +100,17 @@ TextureImporter:
     21300186: RPGXP en grapes...2_persos _93
     21300188: RPGXP en grapes...2_persos _94
     21300190: RPGXP en grapes...2_persos _95
-  serializedVersion: 2
+  externalObjects: {}
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -117,36 +120,63 @@ TextureImporter:
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
+    serializedVersion: 2
     filterMode: 0
     aniso: 16
     mipBias: -1
-    wrapMode: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: RPGXP en grapes...2_persos _0
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _0
       rect:
         serializedVersion: 2
         x: 0
@@ -156,16 +186,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 22}
-        - {x: -13, y: 13}
-        - {x: -13, y: -18}
-        - {x: -8, y: -23}
-        - {x: -4, y: -24}
-        - {x: 8, y: -24}
-        - {x: 12, y: -22}
-        - {x: 12, y: 22}
-    - name: RPGXP en grapes...2_persos _1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _1
       rect:
         serializedVersion: 2
         x: 32
@@ -175,17 +200,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9, y: 23}
-        - {x: -6, y: 23}
-        - {x: -13, y: 21}
-        - {x: -13, y: -12}
-        - {x: -7, y: -24}
-        - {x: 8, y: -24}
-        - {x: 14, y: -13}
-        - {x: 14, y: 4}
-        - {x: 11, y: 19}
-    - name: RPGXP en grapes...2_persos _2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _2
       rect:
         serializedVersion: 2
         x: 64
@@ -195,15 +214,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 22}
-        - {x: -11, y: -22}
-        - {x: -9, y: -24}
-        - {x: 7, y: -24}
-        - {x: 14, y: -19}
-        - {x: 14, y: 21}
-        - {x: 12, y: 22}
-    - name: RPGXP en grapes...2_persos _3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _3
       rect:
         serializedVersion: 2
         x: 96
@@ -213,16 +228,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 23}
-        - {x: -13, y: 13}
-        - {x: -13, y: -20}
-        - {x: -8, y: -24}
-        - {x: 3, y: -24}
-        - {x: 13, y: -19}
-        - {x: 13, y: 17}
-        - {x: 11, y: 23}
-    - name: RPGXP en grapes...2_persos _4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _4
       rect:
         serializedVersion: 2
         x: 128
@@ -232,18 +242,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 13, y: 16}
-        - {x: 6, y: 24}
-        - {x: -9, y: 24}
-        - {x: -14, y: 10}
-        - {x: -14, y: -14}
-        - {x: -13, y: -17}
-        - {x: -6, y: -24}
-        - {x: 7, y: -24}
-        - {x: 15, y: -17}
-        - {x: 15, y: 10}
-    - name: RPGXP en grapes...2_persos _5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _5
       rect:
         serializedVersion: 2
         x: 160
@@ -253,16 +256,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7, y: 23}
-        - {x: -12, y: 16}
-        - {x: -12, y: -19}
-        - {x: -4, y: -24}
-        - {x: 11, y: -24}
-        - {x: 14, y: -19}
-        - {x: 14, y: 14}
-        - {x: 8, y: 23}
-    - name: RPGXP en grapes...2_persos _6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _6
       rect:
         serializedVersion: 2
         x: 192
@@ -272,16 +270,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 24}
-        - {x: -14, y: 10}
-        - {x: -14, y: -15}
-        - {x: -6, y: -24}
-        - {x: 14, y: -24}
-        - {x: 15, y: -14}
-        - {x: 15, y: 23}
-        - {x: 11, y: 24}
-    - name: RPGXP en grapes...2_persos _7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _7
       rect:
         serializedVersion: 2
         x: 224
@@ -291,16 +284,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13, y: 24}
-        - {x: -14, y: 21}
-        - {x: -14, y: -20}
-        - {x: -9, y: -24}
-        - {x: 11, y: -24}
-        - {x: 16, y: -19}
-        - {x: 16, y: 22}
-        - {x: 15, y: 24}
-    - name: RPGXP en grapes...2_persos _8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _8
       rect:
         serializedVersion: 2
         x: 256
@@ -310,15 +298,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 24}
-        - {x: -12, y: -20}
-        - {x: -9, y: -24}
-        - {x: 9, y: -24}
-        - {x: 16, y: -17}
-        - {x: 16, y: 13}
-        - {x: 9, y: 24}
-    - name: RPGXP en grapes...2_persos _9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _9
       rect:
         serializedVersion: 2
         x: 288
@@ -328,16 +312,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6, y: 24}
-        - {x: -11, y: 16}
-        - {x: -11, y: -9}
-        - {x: -5, y: -24}
-        - {x: 12, y: -24}
-        - {x: 16, y: -8}
-        - {x: 16, y: 21}
-        - {x: 12, y: 24}
-    - name: RPGXP en grapes...2_persos _10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _10
       rect:
         serializedVersion: 2
         x: 320
@@ -347,16 +326,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 24}
-        - {x: -12, y: 18}
-        - {x: -12, y: -12}
-        - {x: -9, y: -23}
-        - {x: -6, y: -24}
-        - {x: 13, y: -24}
-        - {x: 16, y: -18}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _11
       rect:
         serializedVersion: 2
         x: 352
@@ -366,14 +340,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 10, y: -24}
-        - {x: 16, y: -17}
-        - {x: 16, y: 16}
-        - {x: 14, y: 24}
-        - {x: -11, y: 24}
-        - {x: -11, y: -24}
-    - name: RPGXP en grapes...2_persos _12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _12
       rect:
         serializedVersion: 2
         x: 0
@@ -383,17 +354,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 22}
-        - {x: -12, y: 16}
-        - {x: -12, y: 14}
-        - {x: -13, y: 3}
-        - {x: -13, y: -20}
-        - {x: -11, y: -24}
-        - {x: 11, y: -24}
-        - {x: 11, y: 19}
-        - {x: 10, y: 22}
-    - name: RPGXP en grapes...2_persos _13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _13
       rect:
         serializedVersion: 2
         x: 32
@@ -403,18 +368,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 23}
-        - {x: -12, y: 17}
-        - {x: -12, y: 10}
-        - {x: -8, y: -20}
-        - {x: -5, y: -24}
-        - {x: 6, y: -24}
-        - {x: 10, y: -23}
-        - {x: 11, y: -9}
-        - {x: 11, y: 19}
-        - {x: 7, y: 23}
-    - name: RPGXP en grapes...2_persos _14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _14
       rect:
         serializedVersion: 2
         x: 64
@@ -424,18 +382,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 22}
-        - {x: -12, y: 16}
-        - {x: -12, y: 14}
-        - {x: -11, y: -21}
-        - {x: -11, y: -24}
-        - {x: 4, y: -24}
-        - {x: 13, y: -21}
-        - {x: 13, y: 8}
-        - {x: 12, y: 15}
-        - {x: 7, y: 22}
-    - name: RPGXP en grapes...2_persos _15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _15
       rect:
         serializedVersion: 2
         x: 96
@@ -445,22 +396,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 21}
-        - {x: -12, y: 16}
-        - {x: -12, y: -13}
-        - {x: -11, y: -18}
-        - {x: -9, y: -20}
-        - {x: -2, y: -20}
-        - {x: 0, y: -18}
-        - {x: 0, y: -15}
-        - {x: 1, y: -21}
-        - {x: 4, y: -24}
-        - {x: 7, y: -24}
-        - {x: 16, y: -20}
-        - {x: 16, y: 14}
-        - {x: 11, y: 21}
-    - name: RPGXP en grapes...2_persos _16
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _16
       rect:
         serializedVersion: 2
         x: 128
@@ -470,18 +410,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 8, y: 22}
-        - {x: -8, y: 22}
-        - {x: -12, y: 17}
-        - {x: -12, y: 3}
-        - {x: -10, y: -21}
-        - {x: -3, y: -24}
-        - {x: 8, y: -24}
-        - {x: 13, y: -15}
-        - {x: 15, y: -1}
-        - {x: 15, y: 20}
-    - name: RPGXP en grapes...2_persos _17
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _17
       rect:
         serializedVersion: 2
         x: 160
@@ -491,16 +424,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 21}
-        - {x: -12, y: 20}
-        - {x: -12, y: -17}
-        - {x: -11, y: -24}
-        - {x: 6, y: -24}
-        - {x: 16, y: -20}
-        - {x: 16, y: 19}
-        - {x: 9, y: 21}
-    - name: RPGXP en grapes...2_persos _18
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _18
       rect:
         serializedVersion: 2
         x: 192
@@ -510,17 +438,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9, y: 24}
-        - {x: -3, y: 24}
-        - {x: -9, y: 22}
-        - {x: -11, y: 7}
-        - {x: -11, y: -19}
-        - {x: -10, y: -24}
-        - {x: 8, y: -24}
-        - {x: 13, y: -22}
-        - {x: 13, y: 20}
-    - name: RPGXP en grapes...2_persos _19
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _19
       rect:
         serializedVersion: 2
         x: 224
@@ -530,19 +452,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 10, y: 24}
-        - {x: -5, y: 24}
-        - {x: -10, y: 22}
-        - {x: -10, y: -16}
-        - {x: -9, y: -21}
-        - {x: -5, y: -24}
-        - {x: 4, y: -24}
-        - {x: 10, y: -23}
-        - {x: 12, y: -8}
-        - {x: 13, y: -2}
-        - {x: 13, y: 21}
-    - name: RPGXP en grapes...2_persos _20
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _20
       rect:
         serializedVersion: 2
         x: 256
@@ -552,16 +466,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -5, y: 24}
-        - {x: -10, y: 23}
-        - {x: -12, y: 12}
-        - {x: -12, y: -24}
-        - {x: 11, y: -24}
-        - {x: 13, y: -22}
-        - {x: 13, y: 19}
-        - {x: 8, y: 24}
-    - name: RPGXP en grapes...2_persos _21
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _21
       rect:
         serializedVersion: 2
         x: 288
@@ -571,16 +480,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 24}
-        - {x: -10, y: 21}
-        - {x: -10, y: -20}
-        - {x: -9, y: -24}
-        - {x: 15, y: -24}
-        - {x: 16, y: -19}
-        - {x: 16, y: 22}
-        - {x: 14, y: 24}
-    - name: RPGXP en grapes...2_persos _22
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _22
       rect:
         serializedVersion: 2
         x: 320
@@ -590,15 +494,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 24}
-        - {x: -10, y: -4}
-        - {x: -3, y: -24}
-        - {x: 11, y: -24}
-        - {x: 15, y: -14}
-        - {x: 15, y: 23}
-        - {x: 14, y: 24}
-    - name: RPGXP en grapes...2_persos _23
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _23
       rect:
         serializedVersion: 2
         x: 352
@@ -608,18 +508,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 12, y: 24}
-        - {x: -8, y: 24}
-        - {x: -10, y: 22}
-        - {x: -10, y: -17}
-        - {x: -8, y: -24}
-        - {x: 2, y: -24}
-        - {x: 10, y: -21}
-        - {x: 13, y: -17}
-        - {x: 15, y: -8}
-        - {x: 15, y: 22}
-    - name: RPGXP en grapes...2_persos _24
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _24
       rect:
         serializedVersion: 2
         x: 0
@@ -629,18 +522,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 8, y: 22}
-        - {x: -6, y: 22}
-        - {x: -11, y: 21}
-        - {x: -11, y: -23}
-        - {x: -10, y: -24}
-        - {x: 4, y: -24}
-        - {x: 11, y: -23}
-        - {x: 13, y: -21}
-        - {x: 13, y: 4}
-        - {x: 12, y: 16}
-    - name: RPGXP en grapes...2_persos _25
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _25
       rect:
         serializedVersion: 2
         x: 32
@@ -650,17 +536,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 23}
-        - {x: -11, y: 21}
-        - {x: -11, y: -15}
-        - {x: -7, y: -24}
-        - {x: 2, y: -24}
-        - {x: 10, y: -21}
-        - {x: 12, y: -8}
-        - {x: 12, y: 19}
-        - {x: 4, y: 23}
-    - name: RPGXP en grapes...2_persos _26
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _26
       rect:
         serializedVersion: 2
         x: 64
@@ -670,16 +550,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7, y: 22}
-        - {x: -11, y: 19}
-        - {x: -13, y: 3}
-        - {x: -13, y: -21}
-        - {x: -6, y: -24}
-        - {x: 12, y: -24}
-        - {x: 12, y: 20}
-        - {x: 7, y: 22}
-    - name: RPGXP en grapes...2_persos _27
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _27
       rect:
         serializedVersion: 2
         x: 96
@@ -689,16 +564,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 21}
-        - {x: -16, y: 15}
-        - {x: -16, y: -20}
-        - {x: -14, y: -24}
-        - {x: 7, y: -24}
-        - {x: 12, y: -23}
-        - {x: 12, y: 18}
-        - {x: 9, y: 21}
-    - name: RPGXP en grapes...2_persos _28
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _28
       rect:
         serializedVersion: 2
         x: 128
@@ -708,17 +578,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 22}
-        - {x: -15, y: 20}
-        - {x: -15, y: -12}
-        - {x: -10, y: -24}
-        - {x: 5, y: -24}
-        - {x: 10, y: -21}
-        - {x: 12, y: 9}
-        - {x: 12, y: 16}
-        - {x: 5, y: 22}
-    - name: RPGXP en grapes...2_persos _29
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _29
       rect:
         serializedVersion: 2
         x: 160
@@ -728,18 +592,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 5, y: 21}
-        - {x: -10, y: 21}
-        - {x: -15, y: 15}
-        - {x: -16, y: 8}
-        - {x: -16, y: -21}
-        - {x: -12, y: -24}
-        - {x: 10, y: -24}
-        - {x: 11, y: -22}
-        - {x: 12, y: -18}
-        - {x: 12, y: 17}
-    - name: RPGXP en grapes...2_persos _30
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _30
       rect:
         serializedVersion: 2
         x: 192
@@ -749,15 +606,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 24}
-        - {x: -11, y: -21}
-        - {x: -10, y: -24}
-        - {x: 12, y: -24}
-        - {x: 13, y: -21}
-        - {x: 13, y: 22}
-        - {x: 8, y: 24}
-    - name: RPGXP en grapes...2_persos _31
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _31
       rect:
         serializedVersion: 2
         x: 224
@@ -767,17 +620,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7, y: 24}
-        - {x: -10, y: 24}
-        - {x: -11, y: 20}
-        - {x: -11, y: -11}
-        - {x: -8, y: -23}
-        - {x: -6, y: -24}
-        - {x: 6, y: -24}
-        - {x: 12, y: -13}
-        - {x: 12, y: 20}
-    - name: RPGXP en grapes...2_persos _32
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _32
       rect:
         serializedVersion: 2
         x: 256
@@ -787,19 +634,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: -18}
-        - {x: -7, y: -21}
-        - {x: -3, y: -21}
-        - {x: 0, y: -18}
-        - {x: 0, y: -16}
-        - {x: 1, y: -20}
-        - {x: 3, y: -24}
-        - {x: 14, y: -24}
-        - {x: 14, y: 12}
-        - {x: 12, y: 24}
-        - {x: -11, y: 24}
-    - name: RPGXP en grapes...2_persos _33
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _33
       rect:
         serializedVersion: 2
         x: 288
@@ -809,15 +648,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7, y: 24}
-        - {x: -12, y: 21}
-        - {x: -12, y: -18}
-        - {x: -10, y: -24}
-        - {x: 12, y: -24}
-        - {x: 14, y: -20}
-        - {x: 14, y: 24}
-    - name: RPGXP en grapes...2_persos _34
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _34
       rect:
         serializedVersion: 2
         x: 320
@@ -827,19 +662,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -5, y: 24}
-        - {x: -11, y: 18}
-        - {x: -11, y: 3}
-        - {x: -9, y: -13}
-        - {x: -5, y: -21}
-        - {x: -3, y: -24}
-        - {x: 4, y: -24}
-        - {x: 12, y: -21}
-        - {x: 14, y: -6}
-        - {x: 14, y: 21}
-        - {x: 13, y: 24}
-    - name: RPGXP en grapes...2_persos _35
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _35
       rect:
         serializedVersion: 2
         x: 352
@@ -849,18 +676,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 24}
-        - {x: -11, y: 18}
-        - {x: -11, y: -12}
-        - {x: -10, y: -18}
-        - {x: -6, y: -22}
-        - {x: -2, y: -24}
-        - {x: 13, y: -24}
-        - {x: 14, y: -21}
-        - {x: 14, y: 20}
-        - {x: 13, y: 24}
-    - name: RPGXP en grapes...2_persos _36
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _36
       rect:
         serializedVersion: 2
         x: 0
@@ -870,17 +690,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7, y: 22}
-        - {x: -12, y: 19}
-        - {x: -12, y: -11}
-        - {x: -7, y: -24}
-        - {x: 3, y: -24}
-        - {x: 10, y: -21}
-        - {x: 13, y: -14}
-        - {x: 13, y: 20}
-        - {x: 5, y: 22}
-    - name: RPGXP en grapes...2_persos _37
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _37
       rect:
         serializedVersion: 2
         x: 32
@@ -890,17 +704,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 23}
-        - {x: -13, y: 11}
-        - {x: -13, y: -13}
-        - {x: -11, y: -23}
-        - {x: -8, y: -24}
-        - {x: 12, y: -24}
-        - {x: 14, y: -20}
-        - {x: 14, y: 11}
-        - {x: 10, y: 23}
-    - name: RPGXP en grapes...2_persos _38
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _38
       rect:
         serializedVersion: 2
         x: 64
@@ -910,15 +718,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 22}
-        - {x: -12, y: 21}
-        - {x: -12, y: -24}
-        - {x: 8, y: -24}
-        - {x: 13, y: -12}
-        - {x: 13, y: 20}
-        - {x: 5, y: 22}
-    - name: RPGXP en grapes...2_persos _39
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _39
       rect:
         serializedVersion: 2
         x: 96
@@ -928,16 +732,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 21}
-        - {x: -15, y: 5}
-        - {x: -15, y: -22}
-        - {x: -11, y: -24}
-        - {x: 4, y: -24}
-        - {x: 15, y: -20}
-        - {x: 15, y: 16}
-        - {x: 7, y: 21}
-    - name: RPGXP en grapes...2_persos _40
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _40
       rect:
         serializedVersion: 2
         x: 128
@@ -947,16 +746,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 22}
-        - {x: -14, y: 19}
-        - {x: -14, y: -23}
-        - {x: -13, y: -24}
-        - {x: 9, y: -24}
-        - {x: 15, y: -22}
-        - {x: 15, y: 11}
-        - {x: 9, y: 22}
-    - name: RPGXP en grapes...2_persos _41
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _41
       rect:
         serializedVersion: 2
         x: 160
@@ -966,16 +760,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 21}
-        - {x: -14, y: 14}
-        - {x: -14, y: -23}
-        - {x: -12, y: -24}
-        - {x: 12, y: -24}
-        - {x: 16, y: -18}
-        - {x: 16, y: 13}
-        - {x: 11, y: 21}
-    - name: RPGXP en grapes...2_persos _42
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _42
       rect:
         serializedVersion: 2
         x: 192
@@ -985,16 +774,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 24}
-        - {x: -13, y: 3}
-        - {x: -13, y: -9}
-        - {x: -5, y: -24}
-        - {x: 8, y: -24}
-        - {x: 15, y: -12}
-        - {x: 15, y: 23}
-        - {x: 12, y: 24}
-    - name: RPGXP en grapes...2_persos _43
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _43
       rect:
         serializedVersion: 2
         x: 224
@@ -1004,17 +788,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 12, y: 24}
-        - {x: -11, y: 24}
-        - {x: -14, y: 19}
-        - {x: -14, y: -11}
-        - {x: -9, y: -24}
-        - {x: 11, y: -24}
-        - {x: 16, y: -16}
-        - {x: 16, y: 15}
-        - {x: 14, y: 23}
-    - name: RPGXP en grapes...2_persos _44
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _44
       rect:
         serializedVersion: 2
         x: 256
@@ -1024,16 +802,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 24}
-        - {x: -12, y: 13}
-        - {x: -12, y: -13}
-        - {x: -11, y: -22}
-        - {x: -8, y: -24}
-        - {x: 9, y: -24}
-        - {x: 16, y: -17}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _45
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _45
       rect:
         serializedVersion: 2
         x: 288
@@ -1043,18 +816,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 24}
-        - {x: -11, y: 22}
-        - {x: -11, y: -9}
-        - {x: -5, y: -21}
-        - {x: -4, y: -24}
-        - {x: 4, y: -24}
-        - {x: 8, y: -23}
-        - {x: 16, y: -14}
-        - {x: 16, y: 21}
-        - {x: 15, y: 24}
-    - name: RPGXP en grapes...2_persos _46
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _46
       rect:
         serializedVersion: 2
         x: 320
@@ -1064,16 +830,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 24}
-        - {x: -12, y: 18}
-        - {x: -12, y: -12}
-        - {x: -9, y: -23}
-        - {x: -6, y: -24}
-        - {x: 13, y: -24}
-        - {x: 16, y: -18}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _47
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _47
       rect:
         serializedVersion: 2
         x: 352
@@ -1083,17 +844,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7, y: 24}
-        - {x: -11, y: 16}
-        - {x: -11, y: -11}
-        - {x: -8, y: -21}
-        - {x: -4, y: -24}
-        - {x: 14, y: -24}
-        - {x: 16, y: -17}
-        - {x: 16, y: 19}
-        - {x: 9, y: 24}
-    - name: RPGXP en grapes...2_persos _48
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _48
       rect:
         serializedVersion: 2
         x: 0
@@ -1103,17 +858,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 24}
-        - {x: -15, y: 20}
-        - {x: -15, y: -12}
-        - {x: -9, y: -24}
-        - {x: 5, y: -24}
-        - {x: 14, y: -20}
-        - {x: 16, y: -15}
-        - {x: 16, y: 22}
-        - {x: 15, y: 24}
-    - name: RPGXP en grapes...2_persos _49
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _49
       rect:
         serializedVersion: 2
         x: 32
@@ -1123,14 +872,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 24}
-        - {x: -16, y: -12}
-        - {x: -12, y: -24}
-        - {x: 10, y: -24}
-        - {x: 16, y: -14}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _50
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _50
       rect:
         serializedVersion: 2
         x: 64
@@ -1140,15 +886,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 24}
-        - {x: -16, y: -9}
-        - {x: -5, y: -24}
-        - {x: 9, y: -24}
-        - {x: 12, y: -22}
-        - {x: 16, y: -18}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _51
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _51
       rect:
         serializedVersion: 2
         x: 96
@@ -1158,19 +900,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15, y: 18}
-        - {x: 14, y: 22}
-        - {x: -10, y: 22}
-        - {x: -15, y: 8}
-        - {x: -15, y: -18}
-        - {x: -14, y: -19}
-        - {x: -3, y: -24}
-        - {x: 1, y: -24}
-        - {x: 6, y: -22}
-        - {x: 14, y: -18}
-        - {x: 15, y: -16}
-    - name: RPGXP en grapes...2_persos _52
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _52
       rect:
         serializedVersion: 2
         x: 128
@@ -1180,16 +914,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 23}
-        - {x: -13, y: 22}
-        - {x: -13, y: -18}
-        - {x: -11, y: -24}
-        - {x: 14, y: -24}
-        - {x: 16, y: -23}
-        - {x: 16, y: 20}
-        - {x: 9, y: 23}
-    - name: RPGXP en grapes...2_persos _53
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _53
       rect:
         serializedVersion: 2
         x: 160
@@ -1199,16 +928,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: -17}
-        - {x: -7, y: -24}
-        - {x: 14, y: -24}
-        - {x: 16, y: -22}
-        - {x: 16, y: 17}
-        - {x: 13, y: 22}
-        - {x: -7, y: 22}
-        - {x: -12, y: 20}
-    - name: RPGXP en grapes...2_persos _54
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _54
       rect:
         serializedVersion: 2
         x: 192
@@ -1218,16 +942,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 23}
-        - {x: -13, y: 19}
-        - {x: -13, y: -9}
-        - {x: -8, y: -24}
-        - {x: 6, y: -24}
-        - {x: 16, y: -12}
-        - {x: 16, y: 18}
-        - {x: 15, y: 23}
-    - name: RPGXP en grapes...2_persos _55
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _55
       rect:
         serializedVersion: 2
         x: 224
@@ -1237,16 +956,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 24}
-        - {x: -14, y: 15}
-        - {x: -14, y: -10}
-        - {x: -9, y: -24}
-        - {x: 9, y: -24}
-        - {x: 16, y: -10}
-        - {x: 16, y: 17}
-        - {x: 15, y: 24}
-    - name: RPGXP en grapes...2_persos _56
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _56
       rect:
         serializedVersion: 2
         x: 256
@@ -1256,16 +970,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 23}
-        - {x: -13, y: 19}
-        - {x: -13, y: -9}
-        - {x: -9, y: -24}
-        - {x: 7, y: -24}
-        - {x: 16, y: -12}
-        - {x: 16, y: 17}
-        - {x: 15, y: 23}
-    - name: RPGXP en grapes...2_persos _57
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _57
       rect:
         serializedVersion: 2
         x: 288
@@ -1275,17 +984,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -5, y: 24}
-        - {x: -11, y: 18}
-        - {x: -13, y: 12}
-        - {x: -13, y: -12}
-        - {x: -10, y: -23}
-        - {x: -8, y: -24}
-        - {x: 5, y: -24}
-        - {x: 16, y: -13}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _58
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _58
       rect:
         serializedVersion: 2
         x: 320
@@ -1295,16 +998,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 24}
-        - {x: -13, y: 17}
-        - {x: -13, y: -14}
-        - {x: -10, y: -24}
-        - {x: 12, y: -24}
-        - {x: 16, y: -19}
-        - {x: 16, y: 19}
-        - {x: 14, y: 24}
-    - name: RPGXP en grapes...2_persos _59
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _59
       rect:
         serializedVersion: 2
         x: 352
@@ -1314,18 +1012,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -2, y: 24}
-        - {x: -9, y: 23}
-        - {x: -12, y: 11}
-        - {x: -12, y: -7}
-        - {x: -6, y: -23}
-        - {x: -2, y: -24}
-        - {x: 10, y: -24}
-        - {x: 16, y: -15}
-        - {x: 16, y: 22}
-        - {x: 12, y: 24}
-    - name: RPGXP en grapes...2_persos _60
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _60
       rect:
         serializedVersion: 2
         x: 0
@@ -1335,16 +1026,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 24}
-        - {x: -11, y: 19}
-        - {x: -11, y: -16}
-        - {x: -9, y: -21}
-        - {x: -3, y: -24}
-        - {x: 14, y: -24}
-        - {x: 14, y: 21}
-        - {x: 8, y: 24}
-    - name: RPGXP en grapes...2_persos _61
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _61
       rect:
         serializedVersion: 2
         x: 32
@@ -1354,15 +1040,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 24}
-        - {x: -11, y: 23}
-        - {x: -11, y: -9}
-        - {x: -5, y: -24}
-        - {x: 14, y: -24}
-        - {x: 14, y: 23}
-        - {x: 11, y: 24}
-    - name: RPGXP en grapes...2_persos _62
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _62
       rect:
         serializedVersion: 2
         x: 64
@@ -1372,16 +1054,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7, y: 24}
-        - {x: -2, y: 24}
-        - {x: -11, y: 22}
-        - {x: -11, y: -24}
-        - {x: 8, y: -24}
-        - {x: 12, y: -23}
-        - {x: 14, y: -18}
-        - {x: 14, y: 17}
-    - name: RPGXP en grapes...2_persos _63
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _63
       rect:
         serializedVersion: 2
         x: 96
@@ -1391,18 +1068,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 10, y: 22}
-        - {x: -5, y: 22}
-        - {x: -12, y: 20}
-        - {x: -12, y: -16}
-        - {x: -11, y: -19}
-        - {x: -4, y: -24}
-        - {x: 10, y: -24}
-        - {x: 16, y: -21}
-        - {x: 16, y: 4}
-        - {x: 14, y: 16}
-    - name: RPGXP en grapes...2_persos _64
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _64
       rect:
         serializedVersion: 2
         x: 128
@@ -1412,19 +1082,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0, y: 23}
-        - {x: -6, y: 23}
-        - {x: -12, y: 17}
-        - {x: -12, y: 5}
-        - {x: -7, y: -20}
-        - {x: -3, y: -24}
-        - {x: 5, y: -24}
-        - {x: 13, y: -22}
-        - {x: 14, y: -21}
-        - {x: 14, y: 19}
-        - {x: 9, y: 22}
-    - name: RPGXP en grapes...2_persos _65
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _65
       rect:
         serializedVersion: 2
         x: 160
@@ -1434,17 +1096,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 22}
-        - {x: -12, y: 21}
-        - {x: -12, y: -12}
-        - {x: -10, y: -24}
-        - {x: 10, y: -24}
-        - {x: 12, y: -23}
-        - {x: 16, y: -17}
-        - {x: 16, y: 19}
-        - {x: 6, y: 22}
-    - name: RPGXP en grapes...2_persos _66
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _66
       rect:
         serializedVersion: 2
         x: 192
@@ -1454,16 +1110,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -3, y: 24}
-        - {x: -7, y: 23}
-        - {x: -12, y: 12}
-        - {x: -12, y: -24}
-        - {x: 11, y: -24}
-        - {x: 14, y: -22}
-        - {x: 14, y: 23}
-        - {x: 9, y: 24}
-    - name: RPGXP en grapes...2_persos _67
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _67
       rect:
         serializedVersion: 2
         x: 224
@@ -1473,15 +1124,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 24}
-        - {x: -11, y: 20}
-        - {x: -11, y: -7}
-        - {x: -6, y: -24}
-        - {x: 11, y: -24}
-        - {x: 14, y: -15}
-        - {x: 14, y: 24}
-    - name: RPGXP en grapes...2_persos _68
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _68
       rect:
         serializedVersion: 2
         x: 256
@@ -1491,22 +1138,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9, y: -21}
-        - {x: 13, y: -19}
-        - {x: 14, y: -3}
-        - {x: 14, y: 21}
-        - {x: 7, y: 24}
-        - {x: 0, y: 24}
-        - {x: -5, y: 21}
-        - {x: -11, y: 13}
-        - {x: -11, y: -22}
-        - {x: -8, y: -24}
-        - {x: -2, y: -24}
-        - {x: 2, y: -20}
-        - {x: 2, y: -18}
-        - {x: 4, y: -21}
-    - name: RPGXP en grapes...2_persos _69
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _69
       rect:
         serializedVersion: 2
         x: 288
@@ -1516,23 +1152,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15, y: 17}
-        - {x: 7, y: 24}
-        - {x: -8, y: 24}
-        - {x: -11, y: 18}
-        - {x: -11, y: -18}
-        - {x: -9, y: -19}
-        - {x: -2, y: -19}
-        - {x: 0, y: -17}
-        - {x: 0, y: -15}
-        - {x: 0, y: -21}
-        - {x: 3, y: -24}
-        - {x: 8, y: -24}
-        - {x: 12, y: -20}
-        - {x: 13, y: -9}
-        - {x: 15, y: 11}
-    - name: RPGXP en grapes...2_persos _70
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _70
       rect:
         serializedVersion: 2
         x: 320
@@ -1542,15 +1166,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 24}
-        - {x: -11, y: -24}
-        - {x: 6, y: -24}
-        - {x: 11, y: -23}
-        - {x: 15, y: -19}
-        - {x: 15, y: 20}
-        - {x: 14, y: 24}
-    - name: RPGXP en grapes...2_persos _71
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _71
       rect:
         serializedVersion: 2
         x: 352
@@ -1560,16 +1180,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 24}
-        - {x: -11, y: 23}
-        - {x: -11, y: -12}
-        - {x: -9, y: -24}
-        - {x: 6, y: -24}
-        - {x: 15, y: -22}
-        - {x: 15, y: 18}
-        - {x: 11, y: 24}
-    - name: RPGXP en grapes...2_persos _72
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _72
       rect:
         serializedVersion: 2
         x: 0
@@ -1579,17 +1194,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 24}
-        - {x: -11, y: 19}
-        - {x: -12, y: 9}
-        - {x: -12, y: -22}
-        - {x: -8, y: -24}
-        - {x: 5, y: -24}
-        - {x: 13, y: -19}
-        - {x: 13, y: 21}
-        - {x: 6, y: 24}
-    - name: RPGXP en grapes...2_persos _73
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _73
       rect:
         serializedVersion: 2
         x: 32
@@ -1599,14 +1208,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 24}
-        - {x: -12, y: -24}
-        - {x: 9, y: -24}
-        - {x: 13, y: -13}
-        - {x: 13, y: 22}
-        - {x: 9, y: 24}
-    - name: RPGXP en grapes...2_persos _74
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _74
       rect:
         serializedVersion: 2
         x: 64
@@ -1616,12 +1222,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 24}
-        - {x: -12, y: -24}
-        - {x: 13, y: -24}
-        - {x: 13, y: 24}
-    - name: RPGXP en grapes...2_persos _75
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _75
       rect:
         serializedVersion: 2
         x: 96
@@ -1631,17 +1236,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7, y: 22}
-        - {x: -4, y: 22}
-        - {x: -15, y: 17}
-        - {x: -15, y: -21}
-        - {x: -9, y: -24}
-        - {x: 7, y: -24}
-        - {x: 11, y: -22}
-        - {x: 14, y: 11}
-        - {x: 14, y: 16}
-    - name: RPGXP en grapes...2_persos _76
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _76
       rect:
         serializedVersion: 2
         x: 128
@@ -1651,16 +1250,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7, y: 23}
-        - {x: -4, y: 23}
-        - {x: -12, y: 20}
-        - {x: -12, y: -24}
-        - {x: 5, y: -24}
-        - {x: 11, y: -21}
-        - {x: 14, y: 3}
-        - {x: 14, y: 18}
-    - name: RPGXP en grapes...2_persos _77
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _77
       rect:
         serializedVersion: 2
         x: 160
@@ -1670,16 +1264,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 22}
-        - {x: -15, y: 12}
-        - {x: -15, y: -20}
-        - {x: -10, y: -24}
-        - {x: 10, y: -24}
-        - {x: 14, y: -23}
-        - {x: 14, y: 15}
-        - {x: 7, y: 22}
-    - name: RPGXP en grapes...2_persos _78
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _78
       rect:
         serializedVersion: 2
         x: 192
@@ -1689,14 +1278,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 24}
-        - {x: -12, y: -22}
-        - {x: -10, y: -24}
-        - {x: 14, y: -24}
-        - {x: 14, y: 17}
-        - {x: 11, y: 24}
-    - name: RPGXP en grapes...2_persos _79
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _79
       rect:
         serializedVersion: 2
         x: 224
@@ -1706,16 +1292,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 24}
-        - {x: -12, y: -2}
-        - {x: -9, y: -22}
-        - {x: -5, y: -24}
-        - {x: 8, y: -24}
-        - {x: 13, y: -10}
-        - {x: 13, y: 20}
-        - {x: 8, y: 24}
-    - name: RPGXP en grapes...2_persos _80
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _80
       rect:
         serializedVersion: 2
         x: 256
@@ -1725,15 +1306,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6, y: 24}
-        - {x: -12, y: 22}
-        - {x: -12, y: -21}
-        - {x: -7, y: -24}
-        - {x: 13, y: -24}
-        - {x: 13, y: 23}
-        - {x: 8, y: 24}
-    - name: RPGXP en grapes...2_persos _81
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _81
       rect:
         serializedVersion: 2
         x: 288
@@ -1743,13 +1320,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -3, y: 24}
-        - {x: -11, y: 18}
-        - {x: -11, y: -24}
-        - {x: 15, y: -24}
-        - {x: 15, y: 24}
-    - name: RPGXP en grapes...2_persos _82
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _82
       rect:
         serializedVersion: 2
         x: 320
@@ -1759,18 +1334,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 13, y: 24}
-        - {x: -5, y: 24}
-        - {x: -11, y: 19}
-        - {x: -11, y: 11}
-        - {x: -8, y: -9}
-        - {x: -5, y: -24}
-        - {x: 4, y: -24}
-        - {x: 11, y: -20}
-        - {x: 15, y: 4}
-        - {x: 15, y: 21}
-    - name: RPGXP en grapes...2_persos _83
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _83
       rect:
         serializedVersion: 2
         x: 352
@@ -1780,15 +1348,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 24}
-        - {x: -11, y: 20}
-        - {x: -11, y: -24}
-        - {x: 13, y: -24}
-        - {x: 15, y: -20}
-        - {x: 15, y: 21}
-        - {x: 13, y: 24}
-    - name: RPGXP en grapes...2_persos _84
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _84
       rect:
         serializedVersion: 2
         x: 0
@@ -1798,18 +1362,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15, y: 24}
-        - {x: -12, y: 24}
-        - {x: -16, y: 23}
-        - {x: -16, y: -12}
-        - {x: -7, y: -23}
-        - {x: -5, y: -24}
-        - {x: 5, y: -24}
-        - {x: 9, y: -21}
-        - {x: 16, y: -11}
-        - {x: 16, y: 21}
-    - name: RPGXP en grapes...2_persos _85
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _85
       rect:
         serializedVersion: 2
         x: 32
@@ -1819,14 +1376,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 24}
-        - {x: -16, y: -12}
-        - {x: -12, y: -24}
-        - {x: 10, y: -24}
-        - {x: 16, y: -14}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _86
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _86
       rect:
         serializedVersion: 2
         x: 64
@@ -1836,15 +1390,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12, y: 24}
-        - {x: -16, y: 11}
-        - {x: -16, y: -6}
-        - {x: -4, y: -24}
-        - {x: 15, y: -24}
-        - {x: 16, y: -19}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _87
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _87
       rect:
         serializedVersion: 2
         x: 96
@@ -1854,20 +1404,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 22}
-        - {x: -12, y: 17}
-        - {x: -12, y: -21}
-        - {x: -5, y: -24}
-        - {x: 10, y: -24}
-        - {x: 16, y: -23}
-        - {x: 16, y: 22}
-      - - {x: -16, y: 7}
-        - {x: -16, y: -4}
-        - {x: -13, y: -3}
-        - {x: -13, y: 6}
-        - {x: -15, y: 7}
-    - name: RPGXP en grapes...2_persos _88
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _88
       rect:
         serializedVersion: 2
         x: 128
@@ -1877,16 +1418,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 23}
-        - {x: -13, y: 14}
-        - {x: -13, y: -22}
-        - {x: -7, y: -24}
-        - {x: 14, y: -24}
-        - {x: 16, y: -22}
-        - {x: 16, y: 21}
-        - {x: 10, y: 23}
-    - name: RPGXP en grapes...2_persos _89
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _89
       rect:
         serializedVersion: 2
         x: 160
@@ -1896,15 +1432,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 22}
-        - {x: -13, y: 20}
-        - {x: -13, y: -21}
-        - {x: -3, y: -24}
-        - {x: 9, y: -24}
-        - {x: 15, y: -19}
-        - {x: 15, y: 22}
-    - name: RPGXP en grapes...2_persos _90
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _90
       rect:
         serializedVersion: 2
         x: 192
@@ -1914,17 +1446,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 23}
-        - {x: -11, y: 22}
-        - {x: -13, y: 3}
-        - {x: -13, y: -10}
-        - {x: -4, y: -24}
-        - {x: 3, y: -24}
-        - {x: 7, y: -23}
-        - {x: 16, y: -8}
-        - {x: 16, y: 23}
-    - name: RPGXP en grapes...2_persos _91
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _91
       rect:
         serializedVersion: 2
         x: 224
@@ -1934,13 +1460,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 24}
-        - {x: -14, y: -24}
-        - {x: 11, y: -24}
-        - {x: 16, y: -11}
-        - {x: 16, y: 24}
-    - name: RPGXP en grapes...2_persos _92
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _92
       rect:
         serializedVersion: 2
         x: 256
@@ -1950,13 +1474,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13, y: 23}
-        - {x: -13, y: -24}
-        - {x: 9, y: -24}
-        - {x: 16, y: -14}
-        - {x: 16, y: 23}
-    - name: RPGXP en grapes...2_persos _93
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _93
       rect:
         serializedVersion: 2
         x: 288
@@ -1966,17 +1488,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 24}
-        - {x: -13, y: 16}
-        - {x: -13, y: -6}
-        - {x: -8, y: -22}
-        - {x: -2, y: -24}
-        - {x: 6, y: -24}
-        - {x: 16, y: -11}
-        - {x: 16, y: 21}
-        - {x: 10, y: 24}
-    - name: RPGXP en grapes...2_persos _94
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _94
       rect:
         serializedVersion: 2
         x: 320
@@ -1986,16 +1502,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 24}
-        - {x: -13, y: 17}
-        - {x: -13, y: -14}
-        - {x: -10, y: -24}
-        - {x: 12, y: -24}
-        - {x: 16, y: -19}
-        - {x: 16, y: 19}
-        - {x: 14, y: 24}
-    - name: RPGXP en grapes...2_persos _95
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RPGXP en grapes...2_persos _95
       rect:
         serializedVersion: 2
         x: 352
@@ -2005,17 +1516,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7, y: 24}
-        - {x: -11, y: 18}
-        - {x: -12, y: 7}
-        - {x: -12, y: -11}
-        - {x: -1, y: -24}
-        - {x: 7, y: -24}
-        - {x: 16, y: -12}
-        - {x: 16, y: 21}
-        - {x: 10, y: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
     outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
